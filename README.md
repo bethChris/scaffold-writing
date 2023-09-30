@@ -17,3 +17,11 @@ https://www.youtube.com/watch?v=x4u1wt93Le4
 You'll need Python 3.9 to run this locally. (Earlier versions of Python might work too, but I haven't tested them myself.)
 
 Clone the repository, then run `pip install -r requirements.txt`. Next, run `python flask_app.py`, go to http://localhost:5000/, and you should be able to start playing with the tool. Enjoy!
+
+FOR BETHANY: use command:
+$ source venv/Scripts/activate
+
+to activate the venv and use command:
+$ deactivate
+
+to deactivate the venv 
