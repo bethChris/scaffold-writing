@@ -1,0 +1,21 @@
+What were the benefits of using a context free grammar for your task domain?
+- Using a context free grammar with this allowed me to create a scenario that felt more "open" and like there
+    was a sense of choice and variability, while still giving me a pattern to easily grade and intervene for all mistakes.
+
+
+What were the down sides or difficulties of using a context free grammar for your task domain?
+-  Because we have to provide words for the learner to choose from, I had difficulties in chooseing or evaluating which words would challenge
+    the learner to think about the solution instead of just building an answer using context clues. Are my words vague enough to not give the 
+    answer away yet specific enough for them to build a meaningful answer?
+
+
+What were the benefits of using a constraint based grading for your task domain?
+- It was easy to evaulate what was right and what was wrong and I defined what the specific wrong answers were. It made the grading structure
+    simple and easy to implement.
+
+
+What were the down sides or difficulties of using a constraint based grading for your task domain?
+-  I had issues structuring which "wrong" answer was higher priority than another. If the students answer contained mulltiple wrong components
+    then I had to decide a heirarchy of things to give feedback on. Like if they had "kick the kitten in the eyes" I had to decide if the action
+    was more important to note first or if the fact that they were aiming for the eyes was more important. I can see this issue getting more complicated
+    with more complicated questions that have multiple wrong ways to answer. 
